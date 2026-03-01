@@ -29,7 +29,7 @@ type Slide = {
 
 const SLIDES: Slide[] = [
   { type: 'image', src: '/images/slide-iphone.jpg' },
-  { type: 'image', src: '/images/slide-ps5.jpg' },
+  //{ type: 'image', src: '/images/slide-ps5.jpg' },
   { type: 'image', src: '/images/slide-gold-coins.jpg' },
   { type: 'image', src: '/images/slide-silver-coins.jpg' },
   { type: 'image', src: '/images/slide-prize-cash.jpg' },
