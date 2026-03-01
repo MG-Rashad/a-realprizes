@@ -15,7 +15,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'My Logo — منصة السحوبات الفاخرة | My Logo Sweepstakes',
+  title: 'My Logo — قيد الاختبار | My Logo Still Test',
   description: 'انضم الآن واربح جوائز فاخرة. Join now and win luxury prizes. Fast. Easy. Secure.',
   generator: 'v0.app',
   keywords: ['sweepstakes', 'prizes', 'luxury', 'سحب', 'جوائز', 'مسابقات'],
