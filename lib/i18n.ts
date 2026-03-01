@@ -369,7 +369,7 @@ export const translations = {
       terms: 'I agree to the Terms & Privacy Policy',
     },
     footer: {
-      rights: '© 2025 My Logo. All rights reserved.',
+      rights: '© 2026 My Logo. All rights reserved.',
       links: ['Terms & Conditions', 'Privacy Policy', 'Contact Us'],
     },
   },
