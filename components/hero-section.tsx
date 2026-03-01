@@ -32,9 +32,9 @@ const SLIDES: Slide[] = [
   { type: 'image', src: '/images/slide-ps5.jpg' },
   { type: 'image', src: '/images/slide-gold-coins.jpg' },
   { type: 'image', src: '/images/slide-silver-coins.jpg' },
-  { type: 'image', src: '/images/slide-libyana.jpg' },
-  { type: 'image', src: '/images/slide-almadar.jpg' },
-  { type: 'image', src: '/images/hero.jpg' },
+  { type: 'image', src: '/images/slide-prize-cash.jpg' },
+  { type: 'image', src: '/images/slide-prize-dubai.jpg' },
+  { type: 'image', src: '/images/slide-prize-bmw.jpg' },
 ]
 
 function SlideMedia({ slide, active }: { slide: Slide; active: boolean }) {
