@@ -35,6 +35,7 @@ const SLIDES: Slide[] = [
   { type: 'image', src: '/images/slide-prize-cash.jpg' },
   { type: 'image', src: '/images/slide-prize-dubai.jpg' },
   { type: 'image', src: '/images/slide-prize-bmw.jpg' },
+  { type: 'image', src: '/images/slide-rolex-watch.jpg' },
 ]
 
 function SlideMedia({ slide, active }: { slide: Slide; active: boolean }) {
